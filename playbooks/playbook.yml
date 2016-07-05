@@ -1,0 +1,7 @@
+- hosts: ramesh
+
+  roles:
+    - server
+    - php
+    - mysql
+    - wordpress

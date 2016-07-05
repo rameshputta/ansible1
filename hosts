@@ -36,7 +36,8 @@
 #db02.intranet.mydomain.net
 #10.25.1.56
 #10.25.1.57
-
+[ramesh]
+172.31.52.113
 # Here's another example of host ranges, this time there are no
 # leading 0s:
 
